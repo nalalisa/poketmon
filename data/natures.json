@@ -1,0 +1,152 @@
+[
+  {
+    "name_en": "adamant",
+    "name_ko": "고집",
+    "increased_stat": "attack",
+    "decreased_stat": "special-attack"
+  },
+  {
+    "name_en": "bashful",
+    "name_ko": "수줍음",
+    "increased_stat": null,
+    "decreased_stat": null
+  },
+  {
+    "name_en": "bold",
+    "name_ko": "대담",
+    "increased_stat": "defense",
+    "decreased_stat": "attack"
+  },
+  {
+    "name_en": "brave",
+    "name_ko": "용감",
+    "increased_stat": "attack",
+    "decreased_stat": "speed"
+  },
+  {
+    "name_en": "calm",
+    "name_ko": "차분",
+    "increased_stat": "special-defense",
+    "decreased_stat": "attack"
+  },
+  {
+    "name_en": "careful",
+    "name_ko": "신중",
+    "increased_stat": "special-defense",
+    "decreased_stat": "special-attack"
+  },
+  {
+    "name_en": "docile",
+    "name_ko": "온순",
+    "increased_stat": null,
+    "decreased_stat": null
+  },
+  {
+    "name_en": "gentle",
+    "name_ko": "얌전",
+    "increased_stat": "special-defense",
+    "decreased_stat": "defense"
+  },
+  {
+    "name_en": "hardy",
+    "name_ko": "노력",
+    "increased_stat": null,
+    "decreased_stat": null
+  },
+  {
+    "name_en": "hasty",
+    "name_ko": "성급",
+    "increased_stat": "speed",
+    "decreased_stat": "defense"
+  },
+  {
+    "name_en": "impish",
+    "name_ko": "장난꾸러기",
+    "increased_stat": "defense",
+    "decreased_stat": "special-attack"
+  },
+  {
+    "name_en": "jolly",
+    "name_ko": "명랑",
+    "increased_stat": "speed",
+    "decreased_stat": "special-attack"
+  },
+  {
+    "name_en": "lax",
+    "name_ko": "촐랑",
+    "increased_stat": "defense",
+    "decreased_stat": "special-defense"
+  },
+  {
+    "name_en": "lonely",
+    "name_ko": "외로움",
+    "increased_stat": "attack",
+    "decreased_stat": "defense"
+  },
+  {
+    "name_en": "mild",
+    "name_ko": "의젓",
+    "increased_stat": "special-attack",
+    "decreased_stat": "defense"
+  },
+  {
+    "name_en": "modest",
+    "name_ko": "조심",
+    "increased_stat": "special-attack",
+    "decreased_stat": "attack"
+  },
+  {
+    "name_en": "naive",
+    "name_ko": "천진난만",
+    "increased_stat": "speed",
+    "decreased_stat": "special-defense"
+  },
+  {
+    "name_en": "naughty",
+    "name_ko": "개구쟁이",
+    "increased_stat": "attack",
+    "decreased_stat": "special-defense"
+  },
+  {
+    "name_en": "quiet",
+    "name_ko": "냉정",
+    "increased_stat": "special-attack",
+    "decreased_stat": "speed"
+  },
+  {
+    "name_en": "quirky",
+    "name_ko": "변덕",
+    "increased_stat": null,
+    "decreased_stat": null
+  },
+  {
+    "name_en": "rash",
+    "name_ko": "덜렁",
+    "increased_stat": "special-attack",
+    "decreased_stat": "special-defense"
+  },
+  {
+    "name_en": "relaxed",
+    "name_ko": "무사태평",
+    "increased_stat": "defense",
+    "decreased_stat": "speed"
+  },
+  {
+    "name_en": "sassy",
+    "name_ko": "건방",
+    "increased_stat": "special-defense",
+    "decreased_stat": "speed"
+  },
+  {
+    "name_en": "serious",
+    "name_ko": "성실",
+    "increased_stat": null,
+    "decreased_stat": null
+  },
+  {
+    "name_en": "timid",
+    "name_ko": "겁쟁이",
+    "increased_stat": "speed",
+    "decreased_stat": "attack"
+  }
+]
